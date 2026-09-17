@@ -211,7 +211,6 @@ upi-state-month-panel/
 ├── upi_state_month_panel_build.R│
 └── output/
     ├── upi_state_month_panel.csv
-    └── state_id_lookup.csv
 ```
 
 The original RBI Excel files are not included in this repository. Users can obtain the source files from RBI and reproduce the panel using the provided R script.
