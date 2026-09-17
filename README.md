@@ -79,8 +79,6 @@ Both source formats are then harmonised into a single State/UT-month panel.
 | `value_contribution`           | State/UT contribution to national UPI value                      | Percent              |
 | `source_file`                  | Original RBI source filename                                     | Text                 |
 | `source_format`                | RBI source format used for extraction                            | Text                 |
-| `contribution_scale_corrected` | Indicates observations affected by contribution-scale correction | Logical              |
-
 ---
 
 ## State/UT Harmonisation
